@@ -1,0 +1,14 @@
+.search-container {
+  background-color: aliceblue;
+  height: 100vh;
+  width: 100vw;
+}
+
+.search-container input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  background-color: aliceblue;
+}
